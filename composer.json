@@ -1,8 +1,8 @@
 {
-    "name": "foxycart/foxyclient",
-    "description": "FoxyClient - a PHP Guzzle based API Client for working with the Foxy Hypermedia API ",
+    "name": "dynamic/foxyclient",
+    "description": "FoxyClient - a PHP Guzzle based API Client for working with the Foxy Hypermedia API",
     "type": "library",
-    "homepage": "https://github.com/FoxyCart/foxyclient-php",
+    "homepage": "https://github.com/dynamic/foxyclient-php",
     "license": "MIT",
     "keywords": ["foxy","foxycart","hypermedia"],
     "authors": [
@@ -11,6 +11,11 @@
             "email": "luke.stokes@foxy.io",
             "homepage": "http://www.foxy.io/",
             "role": "Developer"
+        },
+        {
+            "name": "Dynamic, Inc.",
+            "email": "dev@dynamicagency.com",
+            "homepage": "http://www.dynamicagency.com"
         }
     ],
     "require": {
